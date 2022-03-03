@@ -1,7 +1,7 @@
 ---
 ref: andronikos
 title: "Θεόδωρος Ανδρόνικος"
-excerpt: "Διαδικτυακός Προγραμματισμός 2"
+excerpt: "Διαδικτυακός Προγραμματισμός"
 rank: 2
 author: andronikos
 research:
