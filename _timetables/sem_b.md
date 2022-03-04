@@ -6,23 +6,28 @@ timetable:
   - day: "Δευτέρα"
     time: 9
     course: theory-of-propability 
-    author: alex
-    location: "Εργαστήριο Γαληνός"
+    author: avlon
+    location: "Aμφιθέατρο 1"
   - day: "Δευτέρα"
     time: 11
-    course: theory-of-propability
-    author: avlon
-    location: "Αμφιθέατρο 2"
+    course: applied-programming-python
+    author: alex
+    location: "Εργαστήριο Γαληνός"
   - day: "Δευτέρα"
     time: 15
     course: data-structures
     author: "Α. Σωτηροπούλου"
-    location: "Εργαστήριο Γαληνός"
+    location: "Αμφιθέατρο 1"
   - day: "Δευτέρα"
     time: 17
-    course: data-structures
-    author: "Β. Καρυώτης"
-    location: "Αμφιθέατρο 1"
+    course: computer-programming
+    author: "Κ. Σκιαδόπουλος"
+    location: "Εργαστήριο Γαληνός"
+  - day: "Δευτέρα"
+    time: 19
+    course: applied-programming-python
+    author "Δ Μουρατίδη"
+    location: "Εργαστήριο Γαληνός"
     
   - day: "Τρίτη"
     time: 11
