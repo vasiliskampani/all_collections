@@ -2,7 +2,7 @@
 ref: okon
 title: "Κωνσταντίνος Οικονόμου"
 excerpt: "Δίκτυα Υπολογιστών"
-rank: 1
+rank: 2
 author: okon
 research:
  - "Αυτόνομα Δίκτυα"
