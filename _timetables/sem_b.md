@@ -28,8 +28,6 @@ timetable:
     course: applied-programming-python
     author: "Δ Μουρατίδη"
     location: "Εργαστήριο Γαληνός"
-    author "Δ Μουρατίδη"
-    location: "Εργαστήριο Γαληνός"
 
     
   - day: "Τρίτη"
@@ -127,4 +125,3 @@ timetable:
     author: "Ε. Μωραϊτη"
     location: "Αίθουσα 1"
 ---
-
