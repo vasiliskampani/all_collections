@@ -28,6 +28,8 @@ timetable:
     course: applied-programming-python
     author: "Δ Μουρατίδη"
     location: "Εργαστήριο Γαληνός"
+    author "Δ Μουρατίδη"
+    location: "Εργαστήριο Γαληνός"
 
     
   - day: "Τρίτη"
@@ -59,7 +61,7 @@ timetable:
 
   - day: "Τετάρτη"
     time: 11
-    course: probability-theory
+    course: theory-of-propability
     author: avlon
     location: "Αμφιθέατρο 1"
   - day: "Τετάρτη"
@@ -100,7 +102,7 @@ timetable:
     location: "Αιθουσα 1"
   - day: "Πέμπτη"
     time: 19
-    course: "Αγγλικά 2" 
+    course: "Αγγλικά II" 
     author: "Ε. Μωραϊτη"
     location: "Αίθουσα 1"
   
@@ -121,7 +123,7 @@ timetable:
     location: "Εργαστήριο Γαληνός"
   - day: "Παρασκευή"
     time: 19
-    course: "Αγγλικά 2" 
+    course: "Αγγλικά II" 
     author: "Ε. Μωραϊτη"
     location: "Αίθουσα 1"
 ---
