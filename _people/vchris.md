@@ -2,7 +2,7 @@
 ref: vchris
 title: "Βασίλειος Χρυσικόπουλος"
 excerpt: "Πληροφορική – Δίκτυα – Ασφάλεια Πληροφοριών"
-rank: 1
+rank: 9
 author: vchris
 research:
  - "Ασφάλεια"
