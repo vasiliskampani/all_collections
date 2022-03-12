@@ -8,7 +8,6 @@ type: "M"
 hours: "-"
 extra: "-"
 ects: 6
-
 ---
 
 
