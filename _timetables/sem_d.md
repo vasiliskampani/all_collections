@@ -4,103 +4,92 @@ ref: undergraduate_d
 semester: '4'
 timetable:
   - day: "Δευτέρα"
-    time: 9
-    course: theory-of-propability 
-    author: alex
-    location: "Εργαστήριο Γαληνός"
-  - day: "Δευτέρα"
     time: 11
-    course: theory-of-propability
-    author: avlon
-    location: "Αμφιθέατρο 2"
+    course: mis
+    author: "Β. ΚΑΡΥΩΤΗΣ"
+    location: "Αμφιθέατρο 1"
+  - day: "Δευτέρα"
+    time: 13
+    course: security
+    author: "Ε. ΜΑΓΚΟΣ"
+    location: "Αμφιθέατρο 1"
   - day: "Δευτέρα"
     time: 15
-    course: data-structures
-    author: "Α. Σωτηροπούλου"
-    location: "Εργαστήριο Γαληνός"
+    course: security
+    author: "Ε. ΜΑΓΚΟΣ"
+    location: "Αίθουσα 1"
   - day: "Δευτέρα"
     time: 17
-    course: data-structures
-    author: "Β. Καρυώτης"
+    course: data1
+    author: "Ε. ΜΑΡΑΓΚΟΥΔΑΚΗΣ"
     location: "Αμφιθέατρο 1"
     
   - day: "Τρίτη"
     time: 11
-    course: discrete-mathematics
-    author: vlamos
+    course: security
+    author: "Χ. ΝΤΑΝΤΟΓΙΑΝ"
     location: "Αμφιθέατρο 1"
   - day: "Τρίτη"
     time: 13
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
+    course: data1
+    author: "Ε. ΜΑΡΑΓΚΟΥΔΑΚΗΣ"
+    location: "Αμφιθέατρο 1"
   - day: "Τρίτη"
     time: 15
-    course: computer-programming
-    author: mistral
-    location: "Εργαστήριο Γαληνός"
+    course: mis
+    author: "Π. ΚΟΥΡΟΥΘΑΝΑΣΗΣ"
+    location: "ΤΑΒΜ 2.39"
+  - day: "Τρίτη"
+    time: 17
+    course: itheorycomputaion
+    author: "Θ. ΑΝΔΡΟΝΙΚΟΣ"
+    location: "Αίθουσα 2"
+  - day: "Τρίτη"
+    time: 19
+    course: algorithms
+    author: "Θ. ΑΝΔΡΟΝΙΚΟΣ"
+    location: "Αίθουσα 3"
 
   - day: "Τετάρτη"
     time: 9
-    course: discrete-mathematics
-    author: vlamos
-    location: "Αμφιθέατρο 1"
+    course: algorithms
+    author: "Θ. ΑΝΔΡΟΝΙΚΟΣ"
+    location: "Αίθουσα 3"
   - day: "Τετάρτη"
     time: 11
-    course: theory-of-propability
-    author: alex
-    location: "Εργαστήριο Γαληνός"
-  - day: "Τετάρτη"
-    time: 13
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
+    course: itheorycomputaion
+    author: "Θ. ΑΝΔΡΟΝΙΚΟΣ"
+    location: "Αίθουσα 2"
   - day: "Τετάρτη"
     time: 15
-    course: ba
-    author: doukakis
-    location: "Αμφιθέατρο 2"
+    course: data1
+    author: "Α. ΣΩΤΗΡΟΠΟΥΛΟΥ"
+    location: "Εργαστήριο Γαληνός"
 
   - day: "Πέμπτη"
-    time: 13
-    course: discrete-mathematics
-    author: "Γ. Κατωμέρης"
-    location: "Εργαστήριο Γαληνός"
-  - day: "Πέμπτη"
-    time: 15
-    course: ba
-    author: doukakis
+    time: 9
+    course: networks1
+    author: "Ε. ΧΡΙΣΤΟΠΟΥΛΟΥ"
     location: "Αμφιθέατρο 2"
   - day: "Πέμπτη"
-    time: 17
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
-  - day: "Πέμπτη"
     time: 19
-    course: computer-programming
-    author: andronikos
-    location: "Αμφηθέατρο 1"
+    course: cscw
+    author: "Κ. ΧΩΡΙΑΝΟΠΟΥΛΟΣ"
+    location: "Εργαστήριο Αρεταίος"
   
   - day: "Παρασκευή"
     time: 11
-    course: theory-of-propability
-    author: avlon
-    location: "Αμφιθέατρο 2"
-  - day: "Παρασκευή"
-    time: 13
-    course: discrete-mathematics
-    author: "Γ. Κατωμέρης"
-    location: "Εργαστήριο Γαληνός"
+    course: networks1
+    author: "Ε. ΧΡΙΣΤΟΠΟΥΛΟΥ"
+    location: "Αμφιθέατρο 1"
   - day: "Παρασκευή"
     time: 15
-    course: "Αγγλικά ΙΙ"
-    author: "Σ. Κοζομπόλης"
-    location: "Αίθουσα 1"
+    course: data1
+    author: "Σ. ΠΑΛΑΜΑΣ"
+    location: "Αμφιθέατρο 1"
   - day: "Παρασκευή"
-    time: 17
-    course: data-structures
-    author: "Α. Σωτηροπούλου"
-    location: "Εργαστήριο Γαληνός"
+    time: 19
+    course: cscw
+    author: "Κ. ΧΩΡΙΑΝΟΠΟΥΛΟΣ"
+    location: "Εργαστήριο Αρεταίος"
 ---
-
