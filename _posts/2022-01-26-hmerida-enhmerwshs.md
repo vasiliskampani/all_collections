@@ -19,6 +19,5 @@ tags:
 
 Περισσότερες πληροφορίες παρέχονται στην [ιστοσελίδα της πλατφόρμας](https://ermis.di.ionio.gr/)
 
-Η διαδικτυακή εκδήλωση θα είναι διαθέσιμη στη διεύθυνση:
+Η διαδικτυακή εκδήλωση θα είναι διαθέσιμη στη [διεύθυνση:](https://ionio-gr.zoom.us/j/92735136977?pwd=K2FjdHh6MHd0R0JTcXcwV3l5VHpudz09)
 
-https://ionio-gr.zoom.us/j/92735136977?pwd=K2FjdHh6MHd0R0JTcXcwV3l5VHpudz09
