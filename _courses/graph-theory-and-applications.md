@@ -1,5 +1,5 @@
 ---
-ref: Graph-Theory-and-Applications
+ref: graph-theory-and-applications
 title: "Θεωρία Γραφημάτων και Εφαρμογές"
 semester: 6
 author: karyotis
