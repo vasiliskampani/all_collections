@@ -7,7 +7,7 @@ timetable:
     time: 11
     course: humanistic-informatics
     author: kerman
-    location: "Αμφιθέατρο 1"
+    location: "Aμφιθέατρο 1"
   - day: "Δευτέρα"
     time: 15
     course: introduction-computer-sciense
@@ -24,11 +24,12 @@ timetable:
     author: hristope
     location: "Εργαστήριο Γαληνός"
 
+    
   - day: "Τρίτη"
     time: 11
     course: calculus
     author: vlamos
-    location: "Αμφιθέατρο 1"
+    location: "Αμφιθέατρο 1" 
   - day: "Τρίτη"
     time: 15
     course: introduction-computer-sciense
@@ -39,6 +40,7 @@ timetable:
     course: computer-programming
     author: hristope
     location: "Αμφιθέατρο 1"
+  
 
   - day: "Τετάρτη"
     time: 11
@@ -47,7 +49,7 @@ timetable:
     location: "Αίθουσα 1"
   - day: "Τετάρτη"
     time: 15
-    course: "calculus
+    course: calculus
     author: vlamos
     location: "Αμφιθέατρο 2"
   - day: "Τετάρτη"
@@ -98,3 +100,4 @@ timetable:
     course: humanistic-informatics
     author: kerman
     location: "Εργαστήριο Γαληνός"
+---
