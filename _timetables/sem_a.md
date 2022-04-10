@@ -60,7 +60,7 @@ timetable:
   - day: "Τετάρτη"
     time: 19
     course: humanistic-informatics
-    author: kerman
+    author: "Σ. Νικηφόρος"
     location: "Εργαστήριο Γαληνός"
   - day: "Τετάρτη"
 
@@ -77,7 +77,7 @@ timetable:
   - day: "Πέμπτη"
     time: 19
     course: humanistic-informatics
-    author: kerman
+    author: "Σ. Νικηφόρος"
     location: "Εργαστήριο Γαληνός"
 
   - day: "Παρασκευή"
@@ -88,7 +88,7 @@ timetable:
   - day: "Παρασκευή"
     time: 11
     course: humanistic-informatics
-    author: kerman
+    author: "Σ. Νικηφόρος"
     location: "Εργαστήριο Γαληνός"
   - day: "Παρασκευή"
     time: 17
@@ -98,6 +98,6 @@ timetable:
   - day: "Παρασκευή"
     time: 19
     course: humanistic-informatics
-    author: kerman
+    author: "Σ. Νικηφόρος"
     location: "Εργαστήριο Γαληνός"
 ---
